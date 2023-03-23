@@ -1,2 +1,2 @@
-# Spacexx
+# SpaceX
 There are several companies who are trying to make space travel affordable for everyone. Among them, SpaceX seems to be the most successful one. The main reason of this success is that SpaceX makes rocket launches so cheaper than the other companies thanks to the reusability of the first stage.  SpaceX Falcon 9 rocket launches costs 62 million dollars while other providers cost upward of 165 million dollars. As a data scientist who works for an alternate company which wants to bid SpaceX, we want to determine the cost of each launch which depends on whether the first stage would land successfully to be reused. Therefore, we want to predict if SpaceX will reuse the first stage by using machine learning models and public data on Falcon 9.     
